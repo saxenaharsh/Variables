@@ -8,7 +8,12 @@ public class Variables {
 
         int myTotal = myFirstNumber + mySecondNumber + myThirdNumber;
 
+        int myNumber = 1000;
+        int myResult = myNumber - myTotal;
+
+
         System.out.println(myTotal);
+        System.out.println(myResult);
 
     }
 }
